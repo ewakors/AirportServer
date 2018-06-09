@@ -10,6 +10,4 @@ import javax.xml.bind.annotation.XmlType;
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlType(name = "getFlightList", namespace = "http://ws.com/")
 public class GetFlightList {
-
-
 }
